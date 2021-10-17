@@ -1,8 +1,8 @@
 module.exports = {
     app: {
         px: 'XXX',
-        token: 'XXX',
-        playing: 'by Zerio ❤️'
+        token: 'ODk4NDU3MjI1NjIwNzU4NTQw.YWkffw.HX-TGqwse9_VvPngmIcVWzhX73k',
+        playing: 'by YTGGaming ❤️'
     },
 
     opt: {
